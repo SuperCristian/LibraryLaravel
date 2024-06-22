@@ -1,0 +1,17 @@
+img {
+    height: 200px !;
+    width: 100%;
+}
+
+.card-mbody {
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    background-image: url('/assets/bookcase.jpg');
+}
+
+.text-content{
+    height: 300px;
+    font-family: "Oswald", sans-serif;
+  
+}
